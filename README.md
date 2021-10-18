@@ -1,4 +1,4 @@
-<div style='display:flex'>
+<div style='display:flex;flex-direction:column;justify-content:center;'>
 <a href="https://github.com/YusufSyam/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YusufSyam&show_icons=true&include_all_commits=true&count_private=true&theme=buefy" />
 </a>
