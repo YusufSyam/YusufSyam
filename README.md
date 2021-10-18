@@ -1,4 +1,4 @@
-<a href="https://github.com/YusufSyam/github-readme-stats">
+<a href="https://github.com/YusufSyam/github-readme-stats", style='position:absolute'>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=YusufSyam&show_icons=true&include_all_commits=true&count_private=true&theme=buefy" />
 </a>
 
