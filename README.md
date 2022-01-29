@@ -1,9 +1,12 @@
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/YusufSyam/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=YusufSyam&show_icons=true&include_all_commits=true&count_private=true&theme=buefy" />
 </a>
   
- </div>
+ </div> -->
+ <h3 align="center"> Computer Science Student at Hasanuddin University </h3>
+ <br>
+ <hr>
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufSyam&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)](https://github.com/YusufSyam/github-readme-stats) -->
  <div align="center">
 <a href="https://github.com/YusufSyam/github-readme-stats">
