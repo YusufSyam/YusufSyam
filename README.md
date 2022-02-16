@@ -1,16 +1,14 @@
-<!-- <div align="center">
-<a href="https://github.com/YusufSyam/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufSyam&show_icons=true&include_all_commits=true&count_private=true&theme=buefy" />
-</a>
-  
- </div> -->
- 
- <h3 align="center">
-  Hello! I'm Yusuf Syam 
-  <img src="https://github.com/YusufSyam/assets/blob/main/greeting.gif" width="28"> 
+<h3 align="center">
+  Hello There! I'm Yusuf
+  <img src="https://github.com/YusufSyam/assets/blob/main/greeting.gif" width="26"> 
 </h3>
- <br>
- <hr>
+
+<!-- **Nice to meet you! :)**  -->
+#
+<br>
+<p>A person who likes to learn and is very interested in the world of artificial intelligence, I am also very happy to share the knowledge that I know and have with others.<br><br> Student :student: at Hasanuddin university, Indonesia 
+  <img src="https://github.com/YusufSyam/assets/blob/main/id.png" width="16"> </p>
+
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufSyam&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)](https://github.com/YusufSyam/github-readme-stats) -->
  <div align="center">
 <a href="https://github.com/YusufSyam/github-readme-stats">
