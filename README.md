@@ -4,7 +4,7 @@
 </h3>
 
 ##
-<p>Just a normal person who likes to learn and is very interested in the world of artificial intelligence, I am also very happy to share the knowledge that I know and have with others.<br><br> Student :student: at Hasanuddin university, Indonesia <img src="https://github.com/YusufSyam/assets/blob/main/id.png" width="14"> </p>
+<p>I am someone who likes to learn and is very interested in the world of artificial intelligence, I am also very happy to share the knowledge that I know and have with others.<br><br> Student :student: at Hasanuddin university, Indonesia <img src="https://github.com/YusufSyam/assets/blob/main/id.png" width="14"> </p>
 
 **I Can Code In**
 <div align='center'>
