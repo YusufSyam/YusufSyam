@@ -4,7 +4,7 @@
 </h3>
 
 ##
-<p>I am someone who likes to learn and is very interested in the world of artificial intelligence, i am also very happy to share the knowledge that i know and have with others.<br><br> Computer Science student :student: at Hasanuddin University, Indonesia :indonesia: </p>
+<p>I am someone who likes to learn and is very interested with artificial intelligence and everything related to it, i am also very happy to share the knowledge that i know and have with others.<br><br> Computer Science student :student: at Hasanuddin University, Indonesia :indonesia: </p>
 
 <br>
 
