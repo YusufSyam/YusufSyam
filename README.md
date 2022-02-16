@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p> -->
 
-**I Can Code In:**
-
+**I Can Code In**
+#
 <div align='center'>
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -36,6 +36,9 @@
 </div>
 
 <br>
+
+**My Github Stats**
+#
 <div align='center'>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YusufSyam&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Yusuf's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufSyam&langs_count=9theme=buefy&hide_border=true&hide=jupyter%20notebook,css&layout=compact" /></a> |
