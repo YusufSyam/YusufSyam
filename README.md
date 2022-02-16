@@ -4,9 +4,9 @@
 </h3>
 
 ##
-<p>I am someone who likes to learn and is very interested in the world of artificial intelligence, I am also very happy to share the knowledge that I know and have with others.<br><br> Student :student: at Hasanuddin university, Indonesia <img src="https://github.com/YusufSyam/assets/blob/main/id.png" width="14"> </p>
+<p>I am someone who likes to learn and is very interested in the world of artificial intelligence, i am also very happy to share the knowledge that I know and have with others.<br><br> Student :student: at Hasanuddin university, Indonesia <img src="https://github.com/YusufSyam/assets/blob/main/id.png" width="14"> </p>
 
-**I Can Code In**
+**I can code in**
 <div align='center'>
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -24,7 +24,7 @@
 
 <br>
 
-**My Github Stats**
+**My github stats**
 <div align='center'>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YusufSyam&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Yusuf's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufSyam&langs_count=9theme=buefy&hide_border=true&hide=jupyter%20notebook,css&layout=compact" /></a> |
