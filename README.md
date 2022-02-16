@@ -6,7 +6,7 @@
 ##
 <p>I am someone who likes to learn and is very interested in the world of artificial intelligence, i am also very happy to share the knowledge that I know and have with others.<br><br> Student :student: at Hasanuddin university, Indonesia <img src="https://github.com/YusufSyam/assets/blob/main/id.png" width="14"> </p>
 
-**I can code in**
+**Programming language**
 <div align='center'>
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
