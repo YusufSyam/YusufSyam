@@ -4,7 +4,11 @@
 </a>
   
  </div> -->
- <h3 align="center"> Computer Science Student at Hasanuddin University </h3>
+ 
+ <h3 align="center">
+  Hello! I'm Yusuf Syam 
+  <img src="https://github.com/YusufSyam/assets/blob/main/greeting.gif" width="28"> 
+</h3>
  <br>
  <hr>
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufSyam&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)](https://github.com/YusufSyam/github-readme-stats) -->
