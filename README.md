@@ -6,10 +6,10 @@
 ##
 <p>I am someone who likes to learn and is very interested with artificial intelligence and everything related to it, i am also very happy to share the knowledge that i know and have with others</p>
 
-* Computer Science student :student: at [Hasanuddin University](https://unhas.ac.id/v2/), Indonesia :indonesia:
+* Computer Science student :student: at <a href="https://unhas.ac.id/v2/" target="_blank">Hasanuddin University</a>, Indonesia :indonesia:
 * Currently studying machine/deep learning
 * Feel free to ask me about machine/deep learning
-* You can find me on my [LinkedIn](https://www.linkedin.com/in/muh-yusuf-syam-0b7232241/) or my [Instagram](https://www.instagram.com/ysf_syam/)
+* You can find me on my <a href="https://www.linkedin.com/in/muh-yusuf-syam-0b7232241/" target="_blank">LinkedIn</a> or my <a href="https://www.instagram.com/ysf_syam/" target="_blank">Instagram</a>
 
 
 <br>
