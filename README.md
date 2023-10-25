@@ -9,7 +9,7 @@
 * Computer Science student :student: at [Hasanuddin University](https://unhas.ac.id/v2/ "target=_blank"), Indonesia :indonesia:
 * Currently studying machine/deep learning
 * Feel free to ask me about machine/deep learning
-* You can find me on my [LinkedIn](https://www.linkedin.com/in/muh-yusuf-syam-0b7232241/ "target=_blank") or my [Instagram](https://www.instagram.com/ysf_syam/ "target=_blank")
+* You can find me on my [LinkedIn](https://www.linkedin.com/in/muh-yusuf-syam-0b7232241/ "target=_blank")
 
 
 <br>
