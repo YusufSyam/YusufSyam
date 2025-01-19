@@ -4,12 +4,7 @@
 </h3>
 
 ##
-<p>I am someone who likes to learn and is very interested with artificial intelligence and everything related to it, i am also very happy to share the knowledge that i know and have with others</p>
-
-* Computer Science student :student: at [Hasanuddin University](https://unhas.ac.id/v2/ "target=_blank"), Indonesia :indonesia:
-* Currently studying machine/deep learning
-* Feel free to ask me about machine/deep learning
-* You can find me on my [LinkedIn](https://www.linkedin.com/in/muh-yusuf-syam-0b7232241/ "target=_blank")
+I am a Computer Science graduate specializing in Artificial Intelligence, particularly in Computer Vision and Natural Language Processing (NLP). With experience leading projects such as a license plate detection system using YOLOv8. I am proficient in tools and technologies like TensorFlow, PyTorch, SQL, and ReactJS. I possess strong data analysis skills, expertise in developing machine learning models, and the ability to implement AI-driven solutions to address real-world problems. Currently, I am continuously enhancing my knowledge through studies and training to become a reliable contributor to AI and data science.
 
 
 <br>
